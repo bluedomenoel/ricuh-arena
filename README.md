@@ -2,6 +2,8 @@
 
 Game tembak-tembakan arena 2D, satu file `index.html`. Bisa lawan komputer atau main online bareng teman.
 
+**Main sekarang:** https://bluedomenoel.github.io/ricuh-arena/
+
 ## Cara main bareng teman
 1. Kirim file `index.html` ke teman kamu, atau upload ke hosting gratis (misalnya app.netlify.com/drop atau itch.io sebagai game HTML) lalu bagikan link-nya.
 2. Satu orang klik **Buat Room**. Kode 5 huruf muncul di pojok kiri atas.
