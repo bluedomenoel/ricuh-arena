@@ -20,7 +20,7 @@ Semua pemain butuh internet. Komputer host yang menjalankan game, jadi pilih yan
 Kota Malam (klasik) · Kawah Lava (lantai lava membakar & melempar) · Atap Gedung (celah antar gedung, jatuh = mati).
 
 ## Karakter
-Manusia: Jagoan (penembak), Kilat (ninja). Non-manusia: Golem, Gorila, Bunglon, Zombi, Mutan (tanpa senjata, keluar anak saat mati), Robot (jetpack), Pocong (lompat-lompat, terbang), Sorot (sinar mata), Kala (hentikan waktu), Naga (semburan api tanpa batas).
+Manusia: Jagoan (penembak), Kilat (ninja). Non-manusia: Golem, Gorila, Bunglon, Zombi, Mutan (tanpa senjata, keluar anak saat mati), Robot (jetpack), Laba-laba (merayap di dinding, jaring penjerat), Sorot (sinar mata), Kala (hentikan waktu 1.5 detik), Naga (semburan api tanpa batas).
 
 Saat toko / pilih karakter terbuka: lawan komputer = game dijeda; online = karakter beku & kebal (maks 12 detik, tidak berlaku kalau baru diserang).
 - Kalau tetap gagal tersambung di data seluler, coba WiFi atau hotspot dari HP lain.
