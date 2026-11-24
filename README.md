@@ -13,7 +13,16 @@ Semua pemain butuh internet. Komputer host yang menjalankan game, jadi pilih yan
 
 ## Main di HP
 - Jangan kirim file lewat WhatsApp untuk HP: buka lewat **link** (game yang di-hosting), di Chrome/Safari, bukan di browser dalam aplikasi chat.
-- Pegang HP posisi landscape. Jempol kiri = joystick jalan (dorong ke atas = lompat, ke bawah = turun). Jempol kanan = geser untuk bidik + tembak (ada bantuan bidik). Tombol SKILL, GANTI, TOKO, KARAKTER, SKOR, ⏸ ada di layar.
+- Pegang HP posisi landscape. Jempol kiri = joystick jalan (dorong ke atas = lompat, ke bawah = turun).
+- **AUTO** (default nyala): karakter otomatis membidik & menembak musuh terdekat yang kelihatan. Joystick kanan tetap bisa dipakai untuk bidik manual. Tombol SKILL, GANTI, TOKO, KARAKTER, SKOR, AUTO, ⏸ ada di layar.
+
+## Stage
+Kota Malam (klasik) · Kawah Lava (lantai lava membakar & melempar) · Atap Gedung (celah antar gedung, jatuh = mati).
+
+## Karakter
+Manusia: Jagoan (penembak), Kilat (ninja). Non-manusia: Golem, Gorila, Bunglon, Zombi, Mutan (tanpa senjata, keluar anak saat mati), Robot (jetpack), Pocong (lompat-lompat, terbang), Sorot (sinar mata), Kala (hentikan waktu), Naga (semburan api tanpa batas).
+
+Saat toko / pilih karakter terbuka: lawan komputer = game dijeda; online = karakter beku & kebal (maks 12 detik, tidak berlaku kalau baru diserang).
 - Kalau tetap gagal tersambung di data seluler, coba WiFi atau hotspot dari HP lain.
 
 ## Kontrol keyboard
