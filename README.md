@@ -14,16 +14,20 @@ Semua pemain butuh internet. Komputer host yang menjalankan game, jadi pilih yan
 ## Main di HP
 - Jangan kirim file lewat WhatsApp untuk HP: buka lewat **link** (game yang di-hosting), di Chrome/Safari, bukan di browser dalam aplikasi chat.
 - Pegang HP posisi landscape. Jempol kiri = joystick jalan (dorong ke atas = lompat, ke bawah = turun).
-- **AUTO** (default nyala): karakter otomatis membidik & menembak musuh terdekat yang kelihatan. Joystick kanan tetap bisa dipakai untuk bidik manual. Tombol SKILL, GANTI, TOKO, KARAKTER, SKOR, AUTO, ⏸ ada di layar.
+- Tombol **TEMBAK** (tahan) = otomatis membidik musuh terdekat sambil menembak. Kalau tidak ditekan, tidak menembak. Joystick kanan tetap bisa untuk bidik manual. Tombol SKILL, GANTI, TOKO, KARAKTER, SKOR, ⏸ ada di layar.
 
 ## Stage
 Kota Malam (klasik) · Kawah Lava (lantai lava membakar & melempar) · Atap Gedung (celah antar gedung, jatuh = mati).
 
 ## Karakter
-Manusia: Jagoan (penembak), Kilat (ninja). Non-manusia: Golem, Gorila, Bunglon, Zombi, Mutan (tanpa senjata, keluar anak saat mati), Robot (jetpack), Laba-laba (merayap di dinding, jaring penjerat), Sorot (sinar mata), Kala (hentikan waktu 1.5 detik), Naga (semburan api tanpa batas).
+Manusia: Jagoan (penembak), Kilat (ninja), Srikandi (kebal 5 detik). Non-manusia: Golem, Gorila, Bunglon, Zombi, Mutan (tanpa senjata, keluar anak saat mati), Robot (jetpack), Laba-laba (merayap di dinding, jaring penjerat), Sorot (sinar mata), Kala (hentikan waktu 1.5 detik), Naga (semburan api tanpa batas).
 
 Saat toko / pilih karakter terbuka: lawan komputer = game dijeda; online = karakter beku & kebal (maks 12 detik, tidak berlaku kalau baru diserang).
 - Kalau tetap gagal tersambung di data seluler, coba WiFi atau hotspot dari HP lain.
+
+## Darah & Level Up
+Karakter jarak jauh (penembak) darahnya tipis, karakter jarak dekat (Mutan, Naga, Golem, Gorila) darahnya tebal.
+Kotak ungu **LEVEL UP** jatuh dari langit tiap 1 menit dan keluar dari setiap musuh yang mati. Tiap level: darah maks +10%, damage +8%, speed +3% (maks Lv10, hilang saat mati).
 
 ## Kontrol keyboard
 A/D jalan · W/Spasi lompat · S turun dari platform · Klik kiri tembak · Klik kanan/F skill · Q/E/scroll/1-9 ganti senjata · B toko · C ganti karakter · Tab skor · M suara · Esc menu · Host: +/- tambah/kurangi bot
